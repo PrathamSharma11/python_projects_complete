@@ -1,0 +1,9 @@
+a = int(input("Enter the first Digit - "))
+b = int(input("Enter The Second Digit - "))
+print("Before Swapping a= ",a)
+print("Before Swapping b= ",b)
+c = a
+a = b
+b = c
+print("After Swapping a=  ",a)
+print("After Swapping b=  ",b)
